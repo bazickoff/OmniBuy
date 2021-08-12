@@ -38,6 +38,7 @@ KuCoin API Setup:
   - Save the API key, secret, and passphrase 
  
 OmniBuy Setup:
+  - Git Clone this repository to the folder of your choice
   - Navigate to the OmniBuy folder in a terminal
   - In the terminal enter the command "pip install -r requirements.txt"
   - Then enter "python Main.py" to start OmniBuy
