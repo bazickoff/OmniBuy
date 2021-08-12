@@ -5,7 +5,7 @@ Prerequisites:
   - A Google Account
   - A KuCoin Account
 
-Setup:
+Google Sheet Setup:
   - Go to https://console.cloud.google.com/
   - Create a project
   - Navigate to API overview
@@ -30,9 +30,13 @@ Setup:
   - Go to your Google Drive and create a new Google Sheet
   - Create the headers, "Date", "Time Bought", "Time Sold", "Fees Paid", "Profit", "Profit(%)", "Buy Price", "Sell Price", and "Trading Pair"
   - Share the Google Sheet with the email you copied in the previous step
+  
+KuCoin API Setup:
   - On your KuCoin account navigate to "API Management"
   - Create an API Key with the "Trade" option enabled
   - Save the API key, secret, and passphrase 
+ 
+OmniBuy Setup:
   - Navigate to the OmniBuy folder in a terminal
   - In the terminal enter the command "pip install -r requirements.txt"
   - Then enter "python Main.py" to start OmniBuy
