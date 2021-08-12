@@ -1,0 +1,6 @@
+kucoin-python
+pandas
+gspread
+oauth2client
+tradingview_ta
+matplotlib
