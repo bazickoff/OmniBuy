@@ -1,5 +1,5 @@
 # OmniBuy
- OmniBuy is a trading bot that is able to utilize multiple trading strategies to optimize profits. It is able to trade many readily available cryptocurrencies. OmniBuy utilizes both the TradingView API, for technical analysis, and KuCoin API, for making purchases. 
+OmniBuy is a trading bot that is able to utilize multiple trading strategies to optimize profits. It is able to trade many readily available cryptocurrencies. OmniBuy utilizes both the TradingView API, for technical analysis, and KuCoin API, for making purchases. 
  
 Prerequisites:
   - A Google Account
@@ -8,7 +8,7 @@ Prerequisites:
 Setup:
   - Go to https://console.cloud.google.com/
   - Create a project
-  - Navigate to API overview
+- Navigate to API overview
   - Navigate to the library in API overview
   - Search for "Google Drive"
   - Enable "Google Drive"
