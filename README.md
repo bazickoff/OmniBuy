@@ -41,7 +41,8 @@ OmniBuy Setup:
   - Git Clone this repository to the folder of your choice
   - Navigate to the OmniBuy folder in a terminal
   - In the terminal enter the command "pip install -r requirements.txt"
-  - Then enter "python Main.py" to start OmniBuy
+  - Navigate to the "src" folder
+  - Enter "python Main.py" to start OmniBuy
   - Enter your KuCoin API, key, secret, and passphrase when prompted
   - Enter the name of the Google Sheet created in the previous steps when prompted
   - Enter "Help" in the OmniBuy terminal for any further assistance
