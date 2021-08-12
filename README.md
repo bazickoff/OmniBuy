@@ -8,7 +8,7 @@ Prerequisites:
 Setup:
   - Go to https://console.cloud.google.com/
   - Create a project
-- Navigate to API overview
+  - Navigate to API overview
   - Navigate to the library in API overview
   - Search for "Google Drive"
   - Enable "Google Drive"
