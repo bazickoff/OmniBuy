@@ -35,7 +35,7 @@ Setup:
   - On your KuCoin account navigate to "API Management"
   - Create an API Key with the "Trade" option enabled
   - Save the API key, secret, and passphrase 
-   
+  
   - Navigate to the OmniBuy folder in a terminal
   - In the terminal enter the command "pip install -r requirements.txt"
   - Then enter "python Main.py" to start OmniBuy
