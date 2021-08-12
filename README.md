@@ -32,7 +32,8 @@ Google Sheet Setup:
   - Share the Google Sheet with the email you copied in the previous step
   
 KuCoin API Setup:
-  - On your KuCoin account navigate to "API Management"
+  - Go to https://www.kucoin.com, and log in
+  - Navigate to "API Management"
   - Create an API Key with the "Trade" option enabled
   - Save the API key, secret, and passphrase 
  
