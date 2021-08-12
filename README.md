@@ -2,13 +2,8 @@
  OmniBuy is a trading bot that is able to utilize multiple trading strategies to optimize profits. It is able to trade many readily available cryptocurrencies. OmniBuy utilizes both the TradingView API, for technical analysis, and KuCoin API, for making purchases. 
  
 Prerequisites:
-  - Jar files, included in Jar folder
-  - Eclipse or any other Java IDE
-  - VB-CABLE Virtual Audio Device, https://vb-audio.com/Cable/
-  - Two Playstation consoles
-  - Two Paystation accounts
-  - Playstation Remote Play, https://remoteplay.dl.playstation.net/remoteplay/lang/en/index.html
-  - New gmail account with allow less secure apps on
+  - A Google Account
+  - A KuCoin Account
 
 Setup:
   - Go to https://console.cloud.google.com/
