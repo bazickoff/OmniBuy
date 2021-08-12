@@ -6,6 +6,8 @@ Prerequisites:
   - A KuCoin Account
 
 Setup:
+  - A Google Account
+  - A KuCoin Account
   - Go to https://console.cloud.google.com/
   - Create a project
   - Navigate to API overview
