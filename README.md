@@ -34,7 +34,7 @@ Setup:
     - Share the Google Sheet with the email you copied in the previous step
     
     - On your KuCoin account navigate to "API Management"
-    - Create an API with the "Trade" option enabled
+    - Create an API Key with the "Trade" option enabled
     - Save the API key, secret, and passphrase 
     
     - Navigate to the OmniBuy folder in a terminal
