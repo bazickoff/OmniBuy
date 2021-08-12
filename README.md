@@ -42,5 +42,4 @@ Setup:
     - Then enter "python Main.py" to start OmniBuy
     - Enter your KuCoin API, key, secret, and passphrase when prompted
     - Enter the name of the Google Sheet created in the previous steps when prompted
-    -
-
+    - Enter "Help" in the OmniBuy terminal for any further assistance
