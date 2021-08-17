@@ -9,7 +9,7 @@ Google Sheet Setup:
   - Go to https://console.cloud.google.com/
   - Create a project
   - Navigate to API overview
-  - Navigate to the library in API overview
+  - Navigate to the library in API Overview
   - Search for "Google Drive"
   - Enable "Google Drive"
   - Navigate to "Credentials" inside of the "Google Drive API" settings
@@ -21,7 +21,6 @@ Google Sheet Setup:
   - Click the three dots underneath the "Actions" column of the service account
   - Click "Manage Keys"
   - Click "Create New Key", and select "JSON"
-  - Save the file that is being downloaded to the OmniBuy Folder
   - Rename the file to "creds.json"
   - Navigate to the library in API overview
   - Search for "Google Sheets API"
@@ -39,6 +38,7 @@ KuCoin API Setup:
  
 OmniBuy Setup:
   - Git Clone this repository to the folder of your choice
+  - Move "creds.json" to the "src" subfolder
   - Navigate to the OmniBuy folder in a terminal
   - In the terminal enter the command "pip install -r requirements.txt"
   - Navigate to the "src" folder
