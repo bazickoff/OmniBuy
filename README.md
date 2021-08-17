@@ -8,8 +8,8 @@ Prerequisites:
 Google Sheet Setup:
   - Go to https://console.cloud.google.com/
   - Create a project
-  - Navigate to API overview
-  - Navigate to the library in API Overview
+  - Click "Go to APIs overview"
+  - Click "Library"
   - Search for "Google Drive"
   - Enable "Google Drive"
   - Navigate to "Credentials" inside of the "Google Drive API" settings
